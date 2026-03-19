@@ -181,19 +181,19 @@ Token(EOF,      '',   line=1, col=11)
 ## Conclusions
 
 In this laboratory work:
-* I learned the fundamentals of lexical analysis
-* I implemented a fully functional lexer for mathematical expressions
-* The lexer successfully handles integers, floats, operators, and functions
-* Trigonometric functions (`sin`, `cos`) are properly recognized
-* Constants (`pi`, `e`) are identified as special token types
-* Each token contains position information (line, column)
+ I learned the fundamentals of lexical analysis
+ I implemented a fully functional lexer for mathematical expressions
+ The lexer successfully handles integers, floats, operators, and functions
+ Trigonometric functions (`sin`, `cos`) are properly recognized
+ Constants (`pi`, `e`) are identified as special token types
+ Each token contains position information (line, column)
 
 The lexer can be easily extended to support:
-* More trigonometric functions (`tan`, `cot`, `asin`, `acos`)
-* Other mathematical functions (`log`, `exp`, `sqrt`)
-* Variables and assignments
-* Comments
-* String literals
+ More trigonometric functions (`tan`, `cot`, `asin`, `acos`)
+ Other mathematical functions (`log`, `exp`, `sqrt`)
+ Variables and assignments
+ Comments
+ String literals
 
 ---
 
